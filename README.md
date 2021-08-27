@@ -1,4 +1,3 @@
-# github-essentials
-## Description
-GitHub for dummies
+# github-essentials 
 
+Only the best will do
